@@ -9,4 +9,5 @@ Tutorial for students
 + [****307](https://github.com/pepetzku): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
 + [****id](https://github.com/your-github): (0.xx, kp=xx, ki=xx, kd=x), (0.xx, kp=xx, ki=xx, kd=xx)
 + [****077](https://github.com/Ojalp): (5.82, kp=10, ki=2, kd=50), (0.58, kp=50, ki=2, kd=2)
++ [****271](https://github.com/kyostib): (0.58, Kp=100, Ki=10, Kd=8), (1.92, Kp=100, Ki=10, Kd=64)
 
